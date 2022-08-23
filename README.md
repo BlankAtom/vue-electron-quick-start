@@ -2,6 +2,12 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Sign
+
+well, maybe need to use `npm install --force` to install node-module when first.
+
+It may output some error when just use `npm install`.
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
